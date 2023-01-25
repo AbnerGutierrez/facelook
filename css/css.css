@@ -1,0 +1,11 @@
+
+body{
+    padding: 0;
+    margin: 0;
+}
+h1{
+    background: red;
+    padding: 50vh;
+    align-items: center;
+    text-align: center;
+}
