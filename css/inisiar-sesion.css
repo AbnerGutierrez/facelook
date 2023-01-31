@@ -1,0 +1,29 @@
+.principal-iniciar{
+padding: 10px;
+
+}
+h2, h3{
+    
+    text-align: center;
+    margin: 0;
+}
+form {
+    background: aqua;
+    height: 80vh;
+    display: flex;
+    gap: 20px;
+    flex-direction: column;
+    border-radius: 10%;
+    align-items: center;
+    justify-content: center;
+   }
+form input{
+
+    padding: 11px;
+    border-radius: 10px;
+    border: solid 1px #999;
+}
+a{
+    text-decoration: none;
+    font-size: 30px;
+}
